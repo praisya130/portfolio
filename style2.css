@@ -1,0 +1,16 @@
+selector{
+	propert: value;
+}
+h1{
+	color: black ;
+}
+p{
+	color: #dc143c;
+}
+img
+{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
